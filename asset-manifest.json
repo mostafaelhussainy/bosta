@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/bosta/static/css/main.2486bcc3.css",
-    "main.js": "/github.io/bosta/static/js/main.732ae311.js",
-    "static/js/453.f52be3e7.chunk.js": "/github.io/bosta/static/js/453.f52be3e7.chunk.js",
-    "static/media/people-question.png": "/github.io/bosta/static/media/people-question.c4ae4ab9901c1f44603e.png",
-    "static/media/arabic-logo.svg": "/github.io/bosta/static/media/arabic-logo.943f9ca6c0d5f0964ad49326c8da07f2.svg",
-    "static/media/english-logo.svg": "/github.io/bosta/static/media/english-logo.943f9ca6c0d5f0964ad49326c8da07f2.svg",
-    "index.html": "/github.io/bosta/index.html",
-    "main.2486bcc3.css.map": "/github.io/bosta/static/css/main.2486bcc3.css.map",
-    "main.732ae311.js.map": "/github.io/bosta/static/js/main.732ae311.js.map",
-    "453.f52be3e7.chunk.js.map": "/github.io/bosta/static/js/453.f52be3e7.chunk.js.map"
+    "main.css": "/bosta/static/css/main.2486bcc3.css",
+    "main.js": "/bosta/static/js/main.c4303503.js",
+    "static/js/453.f52be3e7.chunk.js": "/bosta/static/js/453.f52be3e7.chunk.js",
+    "static/media/people-question.png": "/bosta/static/media/people-question.c4ae4ab9901c1f44603e.png",
+    "static/media/arabic-logo.svg": "/bosta/static/media/arabic-logo.943f9ca6c0d5f0964ad49326c8da07f2.svg",
+    "static/media/english-logo.svg": "/bosta/static/media/english-logo.943f9ca6c0d5f0964ad49326c8da07f2.svg",
+    "index.html": "/bosta/index.html",
+    "main.2486bcc3.css.map": "/bosta/static/css/main.2486bcc3.css.map",
+    "main.c4303503.js.map": "/bosta/static/js/main.c4303503.js.map",
+    "453.f52be3e7.chunk.js.map": "/bosta/static/js/453.f52be3e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2486bcc3.css",
-    "static/js/main.732ae311.js"
+    "static/js/main.c4303503.js"
   ]
 }

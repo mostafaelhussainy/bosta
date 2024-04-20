@@ -1,0 +1,12 @@
+@import "styles/variables";
+
+.tracking-stepper {
+  padding: 20px 10px;
+  .MuiStepLabel-label {
+    font-weight: 700;
+    color: $primary-color;
+  }
+  .MuiStepLabel-label.Mui-disabled {
+    color: $grey-main-color;
+  }
+}

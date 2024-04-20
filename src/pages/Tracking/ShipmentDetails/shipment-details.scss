@@ -1,0 +1,37 @@
+@import "styles/variables";
+
+.shipment-details {
+  width: calc(70% - 10px);
+  h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  table {
+    border: 1px solid $grey-secondary-color;
+    border-radius: 5px;
+    border-spacing: 0;
+    width: 100%;
+    thead {
+      background-color: $grey-secondary-color;
+      border-bottom: 1px solid $grey-secondary-color;
+      &:last-of-type {
+        border-bottom: none;
+      }
+    }
+    th,
+    td {
+      padding: 10px 20px;
+      min-width: 60px;
+      color: #444;
+      text-align: start;
+      font-weight: 700;
+    }
+    th {
+      font-size: 18px;
+    }
+    td {
+      font-size: 16px;
+    }
+  }
+}
